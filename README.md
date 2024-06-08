@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hodr25
 - 👀 I’m interested in Cybersecurity and Software Developing
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with anyone who wants to teach me
 - 📫 How to reach me in Gmail -> andresotero.contacto@gmail.com
 - 🌐 I have a Personal web -> dovahscript.es
